@@ -1,0 +1,18 @@
+{
+  "name": "???",
+  "version": "0.0.1",
+  "description": "???",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "tsc --sourcemap --jsx react --outDir assets src/*.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.2",
+    "typed-react": "^3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2"
+  }
+}
